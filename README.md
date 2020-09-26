@@ -1,2 +1,2 @@
-# squad-sandbox-tj
+# squard-sandbox-tj
 Sandbox for TJ
